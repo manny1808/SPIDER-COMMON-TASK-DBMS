@@ -1,10 +1,10 @@
 # SPIDER-COMMON-TASK-DBMS
 
 #TO CHECK MY CODE:-
-Checkout 2 '.c' files present in this repository to verify my codes for this project.
+Checkout '.sql' file present in this repository to verify my code for this project.
 
-set up 'dev c++' for viewing the 'c' code:
-link for set up:https://www.youtube.com/watch?v=F9LcfFlDIJs
+set up 'my-sql' for viewing the 'sql' code:
+link for set up:https://www.youtube.com/watch?v=u96rVINbAUI
 
 #TO SEE OUTPUT:-
-To view the output of the code click on the 'DEMO-OS' FOLDER to see the output
+To view the output of the code click on the 'DEMO-DBMS' FOLDER to see the output
